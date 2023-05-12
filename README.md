@@ -1,5 +1,5 @@
 # Sonic-CPU
-Sonic-CPU - Es un programa que muestra, el uso de la CPU en tiempo real. 
+Sonic CPU - It is a program that shows the CPU usage in real time.. 
 
 ## Website: [Corsario_CL](https://s99.cl)
 
